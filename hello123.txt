@@ -1,1 +1,1 @@
-强强强强
+ssh方式，springboot推送成功，http方式失败，orgin,llt/test  两个用ssh和http两种方式都失败
